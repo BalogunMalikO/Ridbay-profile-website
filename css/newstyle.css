@@ -11,11 +11,11 @@
 }
 
 /* =======================================================
-*
-* 	Template Style 
-*	Edit this section
-*
-* ======================================================= */
+  *
+  * 	Template Style 
+  *	Edit this section
+  *
+  * ======================================================= */
 body {
   font-family: "Quicksand", Arial, sans-serif;
   font-weight: 400;
@@ -1842,13 +1842,4 @@ body.offcanvas .colorlib-nav-toggle {
 
 .js .animate-box {
   opacity: 0;
-}
-
-.deb {
-  display: flex;
-  padding: 50px;
-  border: 100px;
-  border-radius: 12%;
-  width: auto;
-  height: auto;
 }
